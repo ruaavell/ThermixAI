@@ -113,6 +113,7 @@ It helps the project grow and reach more users.
 ## ⭐ Star History
 
 ## Star History
+<img width="1832" height="1404" alt="star-history-202677" src="https://github.com/user-attachments/assets/f8d74a23-3b0b-483f-8c3d-51b21ed57b07" />
 
 <a href="https://www.star-history.com/?repos=ruaavell%2FThermixAI&type=date&legend=top-left">
  <picture>
