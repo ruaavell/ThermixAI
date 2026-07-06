@@ -112,27 +112,15 @@ It helps the project grow and reach more users.
 ---
 ## ⭐ Star History
 
-<p align="center">
-  <a href="https://www.star-history.com/#ruaavell/ThermixAI&Date">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://api.star-history.com/svg?repos=ruaavell/ThermixAI&type=Date&theme=dark"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://api.star-history.com/svg?repos=ruaavell/ThermixAI&type=Date"
-      />
-      <img
-        alt="Star History Chart"
-        src="https://api.star-history.com/svg?repos=ruaavell/ThermixAI&type=Date"
-      />
-    </picture>
-  </a>
-</p>
+## Star History
 
-<div align="center">
-
+<a href="https://www.star-history.com/?repos=ruaavell%2FThermixAI&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=date&theme=dark&legend=top-left&sealed_token=awyuQFFW8ej1Xn-O_KW72VRTBf6cJPYMoFelw2Z9SSLz3_YPH4MJfhC0dTApdiOszUyQKaXDoB3t" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=date&legend=top-left&sealed_token=awyuQFFW8ej1Xn-O_KW72VRTBf6cJPYMoFelw2Z9SSLz3_YPH4MJfhC0dTApdiOszUyQKaXDoB3t" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=date&legend=top-left&sealed_token=awyuQFFW8ej1Xn-O_KW72VRTBf6cJPYMoFelw2Z9SSLz3_YPH4MJfhC0dTApdiOszUyQKaXDoB3t" />
+ </picture>
+</a>
 ## ThermixAI
 
 **Your PC deserves an intelligent assistant.**
