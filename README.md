@@ -9,7 +9,7 @@
 ---
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge)
+![Language](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
@@ -19,15 +19,13 @@
 
 # 📖 About
 
-ThermixAI is an AI-powered hardware monitoring application built for Windows.
+**ThermixAI** is a next-generation AI-powered hardware monitoring application for Windows.
 
-Unlike traditional monitoring software, ThermixAI does more than display temperatures and usage statistics.
-
-It continuously analyzes your computer's hardware, understands your system configuration, detects abnormal behavior, researches hardware-specific information, and provides intelligent maintenance recommendations.
+Unlike traditional monitoring software, ThermixAI doesn't just display temperatures and hardware statistics. It understands your hardware, analyzes real-time sensor data, compares values against known hardware behavior, researches trusted technical sources when needed, and provides intelligent maintenance recommendations.
 
 Our goal is simple:
 
-> **Transform raw hardware data into meaningful insights.**
+> **Turn raw hardware data into actionable insights.**
 
 ---
 
@@ -35,72 +33,70 @@ Our goal is simple:
 
 - 🤖 AI-powered hardware analysis
 - 🌡️ Real-time temperature monitoring
-- 🧠 Intelligent diagnostic engine
-- 📊 Live performance dashboards
-- 📈 Historical statistics & trends
+- 🧠 Intelligent diagnostics
+- 📊 Live hardware dashboard
+- 📈 Historical trends and analytics
 - 💾 SSD health monitoring
 - 🖥️ CPU, GPU, RAM & Disk monitoring
 - 🔔 Smart notifications
-- 📚 Hardware knowledge database
-- 🌍 Online hardware research
+- 📚 Local hardware knowledge database
+- 🌍 AI-assisted online hardware research
 - 🔍 Thermal paste & cooling diagnostics
-- ❤️ System Health Score
+- ❤️ Overall System Health Score
 - 💬 Built-in AI assistant
-- 🌙 Modern Windows 11 interface
+- 🌙 Modern Windows 11 inspired interface
 
 ---
 
 # 🚀 Vision
 
-ThermixAI is designed to become your personal hardware engineer.
+ThermixAI aims to become your personal hardware engineer.
 
-Instead of showing numbers only, it explains:
+Instead of simply displaying numbers, it answers questions like:
 
 - Is this temperature normal?
-- Should you replace thermal paste?
-- Is your GPU hotspot too high?
-- Is your SSD overheating?
-- Is your cooling system performing as expected?
+- Does my GPU need new thermal paste?
+- Is my hotspot temperature safe?
+- Is my SSD overheating?
+- Is my cooling system performing correctly?
 
-ThermixAI answers these questions automatically using AI.
+Powered by AI, ThermixAI provides understandable and actionable answers.
 
 ---
 
 # 🛠 Tech Stack
 
-- C#
-- .NET
-- WPF / WinUI
-- LibreHardwareMonitor
-- AI Integration
-- Local Database
-- Windows API
-
----
-
-# 📸 Preview
-
-> UI screenshots will be added soon.
+- **Python 3.12+**
+- **PySide6 (Qt for Python)**
+- **LibreHardwareMonitor**
+- **OpenHardwareMonitor Integration**
+- **psutil**
+- **WMI**
+- **SQLite**
+- **Requests / HTTPX**
+- **OpenAI Compatible AI APIs**
+- **Markdown Reporting**
+- **Windows API**
 
 ---
 
 # 📌 Roadmap
 
-- [x] Project planning
+- [x] Project Planning
 - [x] UI/UX Design
-- [ ] Core Monitoring Engine
+- [ ] Monitoring Engine
 - [ ] AI Analysis Engine
 - [ ] Hardware Database
-- [ ] History & Analytics
+- [ ] Historical Analytics
 - [ ] Smart Notifications
-- [ ] AI Chat
+- [ ] AI Assistant
 - [ ] Public Beta
 
 ---
 
 # 🤝 Contributing
 
-Contributions, ideas and feature suggestions are welcome.
+Contributions, feature requests, and suggestions are always welcome.
 
 Feel free to open an Issue or submit a Pull Request.
 
@@ -110,7 +106,7 @@ Feel free to open an Issue or submit a Pull Request.
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
-It helps the project grow and reach more people.
+It helps the project grow and reach more users.
 
 ---
 
