@@ -85,9 +85,9 @@ Powered by AI, ThermixAI provides understandable and actionable answers.
 
 - [x] Project Planning
 - [x] UI/UX Design
-- [ ] Monitoring Engine
-- [ ] AI Analysis Engine
-- [ ] Hardware Database
+- [x] Monitoring Engine
+- [x] AI Analysis Engine
+- [x] Hardware Database
 - [ ] Historical Analytics
 - [ ] Smart Notifications
 - [ ] AI Assistant
