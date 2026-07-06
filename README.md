@@ -111,7 +111,9 @@ It helps the project grow and reach more users.
 
 ---
 ## ⭐ Star History
+## ⭐ Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=ruaavell/ThermixAI&type=Date)](https://star-history.com/#ruaavell/ThermixAI&Date)
 <p align="center">
   <a href="https://www.star-history.com/#ruaavell/ThermixAI&Date">
     <picture>
