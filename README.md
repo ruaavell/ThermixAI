@@ -110,6 +110,26 @@ If you like this project, consider giving it a ⭐ on GitHub.
 It helps the project grow and reach more users.
 
 ---
+## ⭐ Star History
+
+<p align="center">
+  <a href="https://www.star-history.com/#ruaavell/ThermixAI&Date">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://api.star-history.com/svg?repos=ruaavell/ThermixAI&type=Date&theme=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://api.star-history.com/svg?repos=ruaavell/ThermixAI&type=Date"
+      />
+      <img
+        alt="Star History Chart"
+        src="https://api.star-history.com/svg?repos=ruaavell/ThermixAI&type=Date"
+      />
+    </picture>
+  </a>
+</p>
 
 <div align="center">
 
