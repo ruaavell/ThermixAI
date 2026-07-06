@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🔥 ThermixAI
+# <img width="879" height="260" alt="logo" src="https://github.com/user-attachments/assets/e7f5edfb-37ad-4a9b-b8c7-f017ef1f1d68" />
+ ThermixAI
 
 ### Intelligent Hardware Monitoring & AI System Diagnostics
 
