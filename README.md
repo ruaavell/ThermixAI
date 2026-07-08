@@ -48,13 +48,6 @@ Unlike traditional monitoring software, ThermixAI doesn't simply display tempera
 
 ---
 <img width="1394" height="888" alt="Ekran görüntüsü 2026-07-08 153540" src="https://github.com/user-attachments/assets/84940b08-8917-437c-97cb-af83e7fbecc6" />
-<img width="1395" height="887" alt="Ekran görüntüsü 2026-07-08 153526" src="https://github.com/user-attachments/assets/24335090-b276-40a2-974d-aa7d914a71cb" />
-<img width="1400" height="886" alt="Ekran görüntüsü 2026-07-08 153639" src="https://github.com/user-attachments/assets/6f2c7d18-473c-4776-960f-fc2b7d552d40" />
-<img width="1400" height="887" alt="Ekran görüntüsü 2026-07-08 153625" src="https://github.com/user-attachments/assets/873199f3-b812-42e3-a26d-0c70b6e1a9e0" />
-<img width="1401" height="890" alt="Ekran görüntüsü 2026-07-08 153618" src="https://github.com/user-attachments/assets/ab5e7e0b-8013-491d-a7ad-14ca4b710a66" />
-<img width="1396" height="881" alt="Ekran görüntüsü 2026-07-08 153609" src="https://github.com/user-attachments/assets/5305d5f8-abad-474a-a8d6-5b07c4b585e7" />
-<img width="1399" height="885" alt="Ekran görüntüsü 2026-07-08 153558" src="https://github.com/user-attachments/assets/e68887cc-edfd-419e-8f46-39064c916bb5" />
-<img width="1395" height="887" alt="Ekran görüntüsü 2026-07-08 153551" src="https://github.com/user-attachments/assets/383ae06c-383a-4bb5-8285-2c54d8afb241" />
 
 ---
 # 🚀 Vision
