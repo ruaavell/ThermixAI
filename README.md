@@ -1,18 +1,19 @@
 <div align="center">
 
-# <img width="879" height="260" alt="logo" src="https://github.com/user-attachments/assets/e7f5edfb-37ad-4a9b-b8c7-f017ef1f1d68" />
- ThermixAI
+<img src="https://github.com/user-attachments/assets/e7f5edfb-37ad-4a9b-b8c7-f017ef1f1d68" width="850" alt="ThermixAI Logo">
+
+# ThermixAI
 
 ### Intelligent Hardware Monitoring & AI System Diagnostics
 
 **The next generation AI-powered hardware monitoring application for Windows.**
 
----
+<br>
 
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-AGPL-3.0-green?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-AGPL--3.0-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -22,9 +23,7 @@
 
 **ThermixAI** is a next-generation AI-powered hardware monitoring application for Windows.
 
-Unlike traditional monitoring software, ThermixAI doesn't just display temperatures and hardware statistics. It understands your hardware, analyzes real-time sensor data, compares values against known hardware behavior, researches trusted technical sources when needed, and provides intelligent maintenance recommendations.
-
-Our goal is simple:
+Unlike traditional monitoring software, ThermixAI doesn't simply display temperatures and hardware statistics. It continuously analyzes your hardware, interprets sensor data, compares readings against known hardware behavior, researches trusted technical sources when needed, and delivers intelligent maintenance recommendations.
 
 > **Turn raw hardware data into actionable insights.**
 
@@ -36,7 +35,7 @@ Our goal is simple:
 - 🌡️ Real-time temperature monitoring
 - 🧠 Intelligent diagnostics
 - 📊 Live hardware dashboard
-- 📈 Historical trends and analytics
+- 📈 Historical trends & analytics
 - 💾 SSD health monitoring
 - 🖥️ CPU, GPU, RAM & Disk monitoring
 - 🔔 Smart notifications
@@ -51,7 +50,7 @@ Our goal is simple:
 
 # 🚀 Vision
 
-ThermixAI aims to become your personal hardware engineer.
+ThermixAI is designed to become your personal hardware engineer.
 
 Instead of simply displaying numbers, it answers questions like:
 
@@ -61,23 +60,22 @@ Instead of simply displaying numbers, it answers questions like:
 - Is my SSD overheating?
 - Is my cooling system performing correctly?
 
-Powered by AI, ThermixAI provides understandable and actionable answers.
+Powered by AI, ThermixAI transforms hardware monitoring into intelligent diagnostics.
 
 ---
 
 # 🛠 Tech Stack
 
-- **Python 3.12+**
-- **PySide6 (Qt for Python)**
-- **LibreHardwareMonitor**
-- **OpenHardwareMonitor Integration**
-- **psutil**
-- **WMI**
-- **SQLite**
-- **Requests / HTTPX**
-- **OpenAI Compatible AI APIs**
-- **Markdown Reporting**
-- **Windows API**
+- Python 3.12+
+- PySide6 (Qt for Python)
+- LibreHardwareMonitor
+- OpenHardwareMonitor Integration
+- psutil
+- WMI
+- SQLite
+- Requests / HTTPX
+- OpenAI Compatible APIs
+- Windows API
 
 ---
 
@@ -103,27 +101,48 @@ Feel free to open an Issue or submit a Pull Request.
 
 ---
 
+# 📄 License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+See the [LICENSE](LICENSE) file for details.
+
+---
+
 # ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
-It helps the project grow and reach more users.
+It helps ThermixAI grow and reach more users.
 
 ---
-## ⭐ Star History
 
-## Star History
-<img width="1832" height="1404" alt="star-history-202677" src="https://github.com/user-attachments/assets/f8d74a23-3b0b-483f-8c3d-51b21ed57b07" />
+# ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=ruaavell%2FThermixAI&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=date&theme=dark&legend=top-left&sealed_token=awyuQFFW8ej1Xn-O_KW72VRTBf6cJPYMoFelw2Z9SSLz3_YPH4MJfhC0dTApdiOszUyQKaXDoB3t" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=date&legend=top-left&sealed_token=awyuQFFW8ej1Xn-O_KW72VRTBf6cJPYMoFelw2Z9SSLz3_YPH4MJfhC0dTApdiOszUyQKaXDoB3t" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=date&legend=top-left&sealed_token=awyuQFFW8ej1Xn-O_KW72VRTBf6cJPYMoFelw2Z9SSLz3_YPH4MJfhC0dTApdiOszUyQKaXDoB3t" />
- </picture>
+<div align="center">
+
+<a href="https://www.star-history.com/#ruaavell/ThermixAI&Date">
+<picture>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=Date&theme=dark" />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=Date" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ruaavell/ThermixAI&type=Date" />
+</picture>
 </a>
-## ThermixAI
+
+</div>
+
+---
+
+<div align="center">
+
+### ThermixAI
 
 **Your PC deserves an intelligent assistant.**
+
+Made with ❤️ by **Ruaavell**
 
 </div>
