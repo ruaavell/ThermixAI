@@ -86,12 +86,12 @@ Powered by AI, ThermixAI transforms hardware monitoring into intelligent diagnos
 - [x] Project Planning
 - [x] UI/UX Design
 - [x] Monitoring Engine
-- [x] AI Analysis Engine
+- [ ] AI Analysis Engine
 - [x] Hardware Database
 - [x] Historical Analytics
 - [x] Smart Notifications
-- [x] AI Assistant
-- [ ] Public Beta
+- [ ] AI Assistant
+- [x] Public Beta
 
 ---
 
